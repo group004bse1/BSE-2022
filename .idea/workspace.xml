@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="5ed17345-1f84-4c87-8a15-6473bdef6333" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/chapter 3/exercise 1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/chapter 3/exercise 2.py" afterDir="false" />
@@ -11,12 +12,17 @@
       <change afterPath="$PROJECT_DIR$/src/chapter 3/exercise 4.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/chapter 3/exercise 5.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/chapter 3/exercise 7.py" afterDir="false" />
+=======
+    <list default="true" id="b0068f49-d1c8-46cb-9c42-0f9e00fcec6d" name="Changes" comment="src">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+>>>>>>> 042ee84bb76e16accdb84affa7ceaa221d1f3b85
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -28,12 +34,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="24YgdILIUozE1lHv2DdenjHpSP4" />
+=======
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="group0004bse1 &lt;bensontwine750@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23mrKVzRPm20T41jHCiQvIl95ny" />
+>>>>>>> 042ee84bb76e16accdb84affa7ceaa221d1f3b85
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
@@ -152,16 +173,60 @@
         <item itemvalue="Python.exercise 2" />
       </list>
     </recent_temporary>
+=======
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 042ee84bb76e16accdb84affa7ceaa221d1f3b85
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="5ed17345-1f84-4c87-8a15-6473bdef6333" name="Changes" comment="" />
       <created>1643813020244</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643813020244</updated>
     </task>
+=======
+      <changelist id="b0068f49-d1c8-46cb-9c42-0f9e00fcec6d" name="Changes" comment="" />
+      <created>1642350041860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642350041860</updated>
+    </task>
+    <task id="LOCAL-00001" summary="goup004bse1">
+      <created>1642360296831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642360296831</updated>
+    </task>
+    <task id="LOCAL-00002" summary="README.md">
+      <created>1642362237601</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642362237601</updated>
+    </task>
+    <task id="LOCAL-00003" summary="src">
+      <created>1642362828865</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642362828865</updated>
+    </task>
+    <task id="LOCAL-00004" summary="src">
+      <created>1642401495140</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642401495140</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+>>>>>>> 042ee84bb76e16accdb84affa7ceaa221d1f3b85
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,4 +240,14 @@
       </map>
     </option>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="goup004bse1/bse2022" />
+    <MESSAGE value="goup004bse1" />
+    <MESSAGE value="README.md" />
+    <MESSAGE value="src" />
+    <option name="LAST_COMMIT_MESSAGE" value="src" />
+  </component>
+>>>>>>> 042ee84bb76e16accdb84affa7ceaa221d1f3b85
 </project>
