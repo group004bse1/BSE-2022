@@ -3,12 +3,12 @@ This repository is created to collect the assignment solutions for the subject S
  for the students of Bachelors of Software Engineering  Year I, in the faculty of Computing and Informatics, MUST.
 <<<<<<< HEAD
 ##GROUP 004 MEMBERS
-BAKUBAWALA MORRIS TREVOR
-TWINE BENSON VAMER
+BAKUBAWALA MORRIS TREVOR-time keeper
+TWINE BENSON VAMER-note taker
 IRIMASO ISAAC
-NUWAGABA ROBERT 
-ARIHO DARIUS KIIZA
-SSENKINGA ABDUL
+NUWAGABA ROBERT
+ARIHO DARIUS KIIZA-group leader
+SSENKINGA ABDUL-progress chaser
 =======
 # BSE-2022
 This repository is created to collect the assignment solutions for the subject SWE1102 Structured Programming 2022
