@@ -50,7 +50,7 @@ def extract_relevant_parts(line):
 
 def file_processor(lookup_string, output_file):
 	if lookup_string == "all":
-		with open("measles.txt", "r") as measles_handle:
+		with open("../chapter 7/measles.txt", "r") as measles_handle:
 
 			with open(output_file, 'w+') as user_handle:
 
@@ -63,7 +63,7 @@ def file_processor(lookup_string, output_file):
 
 	else:
 		# with closes the file automatically
-		with open("measles.txt", "r") as measles_handle:
+		with open("../chapter 7/measles.txt", "r") as measles_handle:
 
 			measles_data = measles_handle.read()
 
